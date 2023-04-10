@@ -1,0 +1,602 @@
+country,region,source,segment,type,abatement,savings,cost
+Colombia,Central and South America,Drainage systems,Underground,Met,CMM utilisation,4.84,-17.98
+Other,Asia Pacific,Drainage systems,Underground,Met,CMM utilisation,3.24,-13.5
+United Kingdom,Europe,Drainage systems,Underground,Met,CMM utilisation,2.3,-12.65
+China,Asia Pacific,Drainage systems,Underground,Met,CMM utilisation,1016.05,-11.47
+China,Asia Pacific,Drainage systems,Underground,Thermal,CMM utilisation,2384.26,-11.15
+Colombia,Central and South America,Drainage systems,Surface,Thermal,CMM utilisation,40.61,-9.52
+India,Asia Pacific,Drainage systems,Underground,Met,CMM utilisation,14.26,-9.51
+India,Asia Pacific,Drainage systems,Underground,Thermal,CMM utilisation,83.02,-8.54
+Other,Asia Pacific,Drainage systems,Underground,Thermal,CMM utilisation,146.22,-6.28
+China,Asia Pacific,Drainage systems,Surface,Thermal,CMM utilisation,233.76,-6.18
+Mozambique,Africa,Drainage systems,Surface,Met,CMM utilisation,6.9,-5.02
+Poland,Europe,Drainage systems,Underground,Met,CMM utilisation,54.73,-5.02
+Mozambique,Africa,Drainage systems,Surface,Thermal,CMM utilisation,6.25,-4.89
+India,Asia Pacific,Drainage systems,Surface,Thermal,CMM utilisation,194.54,-4.87
+Poland,Europe,Drainage systems,Underground,Thermal,CMM utilisation,54.88,-4.85
+Vietnam,Asia Pacific,Drainage systems,Underground,Thermal,CMM utilisation,61.09,-4.51
+China,Asia Pacific,Drainage systems,Surface,Met,CMM utilisation,4.6,-4.44
+Other countries in Southeast Asia,Asia Pacific,Drainage systems,Underground,Thermal,CMM utilisation,30.63,-4.22
+Ukraine,Europe,Drainage systems,Underground,Thermal,CMM utilisation,57.71,-3.71
+Mexico,North America,Drainage systems,Underground,Met,CMM utilisation,6.35,-3.5300000000000002
+Other EU17 countries,Europe,Drainage systems,Underground,Met,CMM utilisation,3.14,-3.25
+Indonesia,Asia Pacific,Drainage systems,Underground,Thermal,CMM utilisation,86.46,-3.11
+Other,Asia Pacific,Other losses,Underground,Thermal,Capture and route to abatement system,22.83,-2.52
+Mexico,North America,Drainage systems,Underground,Thermal,CMM utilisation,3.41,-2.39
+Mongolia,Asia Pacific,Other losses,Surface,Met,Capture and route to abatement system,9.01,-2.27
+China,Asia Pacific,Other losses,Underground,Thermal,Capture and route to abatement system,106.33,-1.88
+Indonesia,Asia Pacific,Other losses,Underground,Thermal,Capture and route to abatement system,15.92,-1.8
+Poland,Europe,Other losses,Underground,Thermal,Capture and route to abatement system,8.09,-1.5899999999999999
+Poland,Europe,Other losses,Underground,Met,Capture and route to abatement system,8.84,-1.58
+Indonesia,Asia Pacific,Other losses,Surface,Met,Capture and route to abatement system,7.83,-1.51
+China,Asia Pacific,Other losses,Underground,Met,Capture and route to abatement system,120.27,-1.51
+Mozambique,Africa,Other losses,Surface,Met,Capture and route to abatement system,4.2,-1.42
+Indonesia,Asia Pacific,Other losses,Surface,Thermal,Capture and route to abatement system,189.56,-1.41
+Other,Asia Pacific,Drainage systems,Surface,Thermal,CMM utilisation,1.3900000000000001,-1.41
+Japan,Asia Pacific,Drainage systems,Underground,Thermal,CMM utilisation,0.69,-1.3
+China,Asia Pacific,Other losses,Surface,Met,Capture and route to abatement system,1.54,-1.29
+Mexico,North America,Other losses,Underground,Met,Capture and route to abatement system,1.22,-1.25
+Ukraine,Europe,Other losses,Underground,Thermal,Capture and route to abatement system,6.44,-1.19
+Mozambique,Africa,Other losses,Surface,Thermal,Capture and route to abatement system,3.8,-1.1400000000000001
+Vietnam,Asia Pacific,Other losses,Surface,Thermal,Capture and route to abatement system,13.3,-1.03
+United States,North America,Other losses,Underground,Met,Capture and route to abatement system,23.02,-1.01
+South Africa,Africa,Drainage systems,Underground,Thermal,CMM utilisation,104.69,-0.86
+Russia,Russia & Caspian,Other losses,Surface,Met,Capture and route to abatement system,14.3,-0.78
+China,Asia Pacific,Other losses,Surface,Thermal,Capture and route to abatement system,122.11,-0.66
+Vietnam,Asia Pacific,Other losses,Underground,Thermal,Capture and route to abatement system,7.38,-0.66
+Korea,Asia Pacific,Drainage systems,Underground,Thermal,CMM utilisation,2.85,-0.6
+Russia,Russia & Caspian,Other losses,Surface,Thermal,Capture and route to abatement system,5.04,-0.38
+Russia,Russia & Caspian,Other losses,Underground,Met,Capture and route to abatement system,17.15,-0.32
+Australia,Asia Pacific,Drainage systems,Underground,Thermal,CMM utilisation,13.5,-0.31
+Russia,Russia & Caspian,Other losses,Underground,Thermal,Capture and route to abatement system,25.66,-0.28
+Australia,Asia Pacific,Drainage systems,Underground,Met,CMM utilisation,61.31,-0.24
+Australia,Asia Pacific,Other losses,Surface,Met,Capture and route to abatement system,7.16,-0.15
+Other countries in Southeast Asia,Asia Pacific,Other losses,Underground,Thermal,Capture and route to abatement system,5.28,-0.07
+Australia,Asia Pacific,Other losses,Underground,Met,Capture and route to abatement system,9.75,-0.02
+Other countries in Europe,Europe,Drainage systems,Underground,Met,CMM utilisation,2.2,0.18
+Indonesia,Asia Pacific,Other losses,Underground,Thermal,Enhance combustion efficiency,5.55,0.23
+Poland,Europe,Drainage systems,Underground,Thermal,CMM utilisation,1.43,0.3
+Kazakhstan,Russia & Caspian,Other losses,Underground,Met,Enhance combustion efficiency,1.24,0.34
+Indonesia,Asia Pacific,Drainage systems,Underground,Thermal,Flare,8.3,0.42
+Colombia,Central and South America,Other losses,Surface,Thermal,Capture and route to abatement system,24.69,0.42
+China,Asia Pacific,Drainage systems,Underground,Thermal,CMM utilisation,1.08,0.49
+China,Asia Pacific,Drainage systems,Surface,Met,CMM utilisation,3.51,0.59
+Other,Asia Pacific,Drainage systems,Underground,Thermal,CMM utilisation,1.2,0.59
+Kazakhstan,Russia & Caspian,Other losses,Underground,Met,Capture and route to abatement system,3.76,0.6
+Vietnam,Asia Pacific,Other losses,Underground,Thermal,Capture and route to abatement system,3.87,0.61
+Russia,Russia & Caspian,Other losses,Underground,Met,Enhance combustion efficiency,15.38,0.79
+Australia,Asia Pacific,Drainage systems,Underground,Thermal,CMM utilisation,37.99,0.82
+Vietnam,Asia Pacific,Other losses,Underground,Thermal,Enhance combustion efficiency,3.94,0.82
+Colombia,Central and South America,Other losses,Surface,Thermal,Enhance combustion efficiency,2.14,0.85
+Iran,Middle East,Other losses,Underground,Met,Capture and route to abatement system,1.3,0.91
+Poland,Europe,Other losses,Underground,Met,Enhance combustion efficiency,3.46,0.94
+Vietnam,Asia Pacific,Other losses,Surface,Thermal,Capture and route to abatement system,3.46,0.94
+Iran,Middle East,Other losses,Underground,Met,Enhance combustion efficiency,0.43,0.95
+Kazakhstan,Russia & Caspian,Other losses,Surface,Thermal,Enhance combustion efficiency,3.09,0.96
+United States,North America,Other losses,Underground,Met,Enhance combustion efficiency,9.76,0.96
+Vietnam,Asia Pacific,Drainage systems,Underground,Thermal,CMM utilisation,2.34,1
+Russia,Russia & Caspian,Other losses,Underground,Thermal,Enhance combustion efficiency,17.62,1.01
+Other,Asia Pacific,Other losses,Underground,Thermal,Enhance combustion efficiency,8.92,1.01
+Mexico,North America,Other losses,Underground,Met,Enhance combustion efficiency,0.4,1.05
+Other countries in Southeast Asia,Asia Pacific,Other losses,Underground,Thermal,Enhance combustion efficiency,1.9300000000000002,1.13
+Poland,Europe,Other losses,Underground,Thermal,Enhance combustion efficiency,3.56,1.25
+Indonesia,Asia Pacific,Other losses,Surface,Thermal,Enhance combustion efficiency,17.01,1.3
+Mexico,North America,Other losses,Underground,Thermal,Capture and route to abatement system,0.66,1.35
+Kazakhstan,Russia & Caspian,Other losses,Surface,Thermal,Capture and route to abatement system,36.59,1.44
+South Africa,Africa,Drainage systems,Underground,Thermal,CMM utilisation,9.67,1.44
+Colombia,Central and South America,Other losses,Underground,Met,Enhance combustion efficiency,0.31,1.49
+Other countries in Europe,Europe,Drainage systems,Underground,Thermal,CMM utilisation,1.3599999999999999,1.6400000000000001
+India,Asia Pacific,Drainage systems,Surface,Thermal,CMM utilisation,20.41,1.65
+China,Asia Pacific,Other losses,Underground,Met,Enhance combustion efficiency,63.7,1.6600000000000001
+Australia,Asia Pacific,Drainage systems,Underground,Met,CMM utilisation,26.22,1.6600000000000001
+China,Asia Pacific,Ventilation systems,Underground,Met,On-site recovery and use,1132.54,1.69
+China,Asia Pacific,Ventilation systems,Underground,Thermal,On-site recovery and use,694.31,1.69
+India,Asia Pacific,Drainage systems,Underground,Met,CMM utilisation,0.73,1.72
+Kazakhstan,Russia & Caspian,Drainage systems,Underground,Met,Flare,1.96,1.75
+Poland,Europe,Ventilation systems,Underground,Thermal,On-site recovery and use,95.7,1.8599999999999999
+Poland,Europe,Ventilation systems,Underground,Met,On-site recovery and use,123.14,1.8599999999999999
+Mongolia,Asia Pacific,Other losses,Surface,Met,Enhance combustion efficiency,0.87,1.87
+China,Asia Pacific,Other losses,Underground,Thermal,Enhance combustion efficiency,131.05,1.9
+Mexico,North America,Other losses,Underground,Thermal,Enhance combustion efficiency,0.22,1.94
+Vietnam,Asia Pacific,Other losses,Surface,Thermal,Enhance combustion efficiency,1.45,1.96
+United States,North America,Drainage systems,Underground,Met,CMM utilisation,147.73,1.96
+Ukraine,Europe,Drainage systems,Underground,Thermal,CMM utilisation,3.87,2
+India,Asia Pacific,Drainage systems,Underground,Thermal,CMM utilisation,8.87,2.02
+Other EU17 countries,Europe,Other losses,Underground,Met,Enhance combustion efficiency,0.2,2.04
+Russia,Russia & Caspian,Other losses,Underground,Met,Capture and route to abatement system,29.21,2.09
+Ukraine,Europe,Ventilation systems,Underground,Thermal,On-site recovery and use,123.57,2.22
+Indonesia,Asia Pacific,Drainage systems,Underground,Thermal,CMM utilisation,1.4,2.25
+Mongolia,Asia Pacific,Other losses,Surface,Met,Capture and route to abatement system,1.92,2.39
+China,Asia Pacific,Other losses,Surface,Thermal,Enhance combustion efficiency,10.82,2.42
+Mongolia,Asia Pacific,Drainage systems,Surface,Met,CMM utilisation,14.81,2.44
+Kazakhstan,Russia & Caspian,Other losses,Underground,Thermal,Enhance combustion efficiency,1.4,2.44
+Other EU17 countries,Europe,Other losses,Underground,Met,Capture and route to abatement system,0.6,2.44
+Indonesia,Asia Pacific,Ventilation systems,Underground,Thermal,On-site recovery and use,194.54,2.45
+Indonesia,Asia Pacific,Other losses,Surface,Met,Enhance combustion efficiency,0.68,2.5
+Indonesia,Asia Pacific,Other losses,Underground,Thermal,Capture and route to abatement system,0.67,2.54
+Australia,Asia Pacific,Other losses,Underground,Met,Enhance combustion efficiency,5.53,2.58
+Other,Asia Pacific,Ventilation systems,Underground,Thermal,On-site recovery and use,293.68,2.59
+China,Asia Pacific,Drainage systems,Surface,Thermal,CMM utilisation,22.67,2.73
+Colombia,Central and South America,Other losses,Underground,Met,Capture and route to abatement system,0.93,2.73
+India,Asia Pacific,Other losses,Underground,Met,Enhance combustion efficiency,0.73,2.77
+United States,North America,Drainage systems,Underground,Thermal,CMM utilisation,94.47,2.9
+Vietnam,Asia Pacific,Drainage systems,Underground,Thermal,Flare,4.63,2.91
+South Africa,Africa,Other losses,Underground,Thermal,Enhance combustion efficiency,7.22,2.95
+Poland,Europe,Other losses,Underground,Met,Capture and route to abatement system,1.6600000000000001,3.01
+Indonesia,Asia Pacific,Drainage systems,Surface,Thermal,Flare,20.95,3.03
+Vietnam,Asia Pacific,Ventilation systems,Underground,Thermal,On-site recovery and use,131.94,3.07
+Other countries in Europe,Europe,Other losses,Underground,Met,Enhance combustion efficiency,0.14,3.13
+United States,North America,Drainage systems,Underground,Met,Flare,12,3.21
+Korea,Asia Pacific,Drainage systems,Underground,Thermal,CMM utilisation,2.65,3.22
+Korea,Asia Pacific,Other losses,Underground,Thermal,Enhance combustion efficiency,0.27,3.25
+Iran,Middle East,Ventilation systems,Underground,Met,On-site recovery and use,15.26,3.25
+Russia,Russia & Caspian,Other losses,Surface,Thermal,Capture and route to abatement system,63.82,3.33
+Colombia,Central and South America,Drainage systems,Surface,Thermal,Flare,3.33,3.35
+United States,North America,Ventilation systems,Underground,Met,On-site recovery and use,249.95,3.37
+Vietnam,Asia Pacific,Drainage systems,Surface,Thermal,Flare,0.98,3.44
+Indonesia,Asia Pacific,Other losses,Surface,Thermal,Capture and route to abatement system,28.58,3.44
+Other,Asia Pacific,Ventilation systems,Underground,Met,On-site recovery and use,7.3,3.57
+Kazakhstan,Russia & Caspian,Drainage systems,Surface,Thermal,Flare,4.79,3.6
+China,Asia Pacific,Other losses,Underground,Met,Capture and route to abatement system,36.73,3.61
+Ukraine,Europe,Other losses,Underground,Thermal,Enhance combustion efficiency,3.73,3.62
+United Kingdom,Europe,Drainage systems,Surface,Thermal,CMM utilisation,0.93,3.64
+Russia,Russia & Caspian,Other losses,Surface,Met,Enhance combustion efficiency,2.87,3.64
+China,Asia Pacific,Other losses,Underground,Thermal,Capture and route to abatement system,243.75,3.7199999999999998
+India,Asia Pacific,Ventilation systems,Underground,Met,On-site recovery and use,8.67,3.7199999999999998
+India,Asia Pacific,Ventilation systems,Underground,Thermal,On-site recovery and use,33.43,3.7199999999999998
+Poland,Europe,Drainage systems,Underground,Met,Flare,3.43,3.73
+Russia,Russia & Caspian,Drainage systems,Underground,Met,Flare,23.07,3.77
+Other,Asia Pacific,Drainage systems,Underground,Thermal,Flare,11.9,3.77
+Russia,Russia & Caspian,Other losses,Underground,Thermal,Capture and route to abatement system,26.3,3.79
+Mozambique,Africa,Other losses,Surface,Met,Enhance combustion efficiency,0.36,3.82
+Vietnam,Asia Pacific,Drainage systems,Surface,Thermal,CMM utilisation,18.83,3.85
+Vietnam,Asia Pacific,Ventilation systems,Underground,Thermal,VAM oxidation,5.51,3.86
+China,Asia Pacific,Drainage systems,Underground,Met,Flare,50.53,4.02
+Mexico,North America,Ventilation systems,Underground,Thermal,VAM oxidation,7.68,4.06
+Mexico,North America,Ventilation systems,Underground,Met,VAM oxidation,14.3,4.06
+Russia,Russia & Caspian,Other losses,Surface,Met,Capture and route to abatement system,21.41,4.09
+Other EU17 countries,Europe,Ventilation systems,Underground,Met,VAM oxidation,7.07,4.14
+China,Asia Pacific,Ventilation systems,Underground,Met,VAM oxidation,1007.62,4.23
+Kazakhstan,Russia & Caspian,Other losses,Underground,Thermal,Capture and route to abatement system,0.81,4.24
+Russia,Russia & Caspian,Drainage systems,Underground,Thermal,Flare,23.52,4.29
+United States,North America,Other losses,Underground,Thermal,Enhance combustion efficiency,7.47,4.32
+Korea,Asia Pacific,Ventilation systems,Underground,Thermal,VAM oxidation,6.41,4.32
+Other countries in Europe,Europe,Ventilation systems,Underground,Met,VAM oxidation,4.96,4.33
+Poland,Europe,Drainage systems,Underground,Thermal,Flare,3.67,4.36
+Iran,Middle East,Drainage systems,Underground,Met,CMM utilisation,6.78,4.48
+Brazil,Central and South America,Drainage systems,Surface,Thermal,CMM utilisation,0.76,4.52
+Kazakhstan,Russia & Caspian,Drainage systems,Underground,Met,CMM utilisation,19.62,4.54
+Germany,Europe,Drainage systems,Surface,Thermal,CMM utilisation,0.88,4.63
+China,Asia Pacific,Ventilation systems,Underground,Thermal,VAM oxidation,3811.04,4.68
+Korea,Asia Pacific,Other losses,Underground,Thermal,Capture and route to abatement system,0.55,4.72
+Colombia,Central and South America,Ventilation systems,Underground,Met,VAM oxidation,10.89,4.75
+Russia,Russia & Caspian,Other losses,Surface,Thermal,Enhance combustion efficiency,5.84,4.77
+India,Asia Pacific,Ventilation systems,Underground,Met,VAM oxidation,17.29,4.8100000000000005
+China,Asia Pacific,Other losses,Surface,Met,Capture and route to abatement system,1.26,4.84
+Other countries in Southeast Asia,Asia Pacific,Ventilation systems,Underground,Thermal,VAM oxidation,68.91,4.93
+Iran,Middle East,Drainage systems,Underground,Met,Flare,0.68,4.99
+United States,North America,Drainage systems,Surface,Thermal,Flare,0.63,5.07
+India,Asia Pacific,Other losses,Underground,Thermal,Enhance combustion efficiency,3.4,5.1
+Colombia,Central and South America,Drainage systems,Surface,Thermal,Flare,0.73,5.12
+India,Asia Pacific,Other losses,Surface,Thermal,Capture and route to abatement system,113.77,5.15
+Australia,Asia Pacific,Other losses,Surface,Met,Capture and route to abatement system,21.26,5.16
+Poland,Europe,Other losses,Underground,Thermal,Capture and route to abatement system,2.09,5.16
+Other countries in Southeast Asia,Asia Pacific,Drainage systems,Underground,Thermal,Flare,2.75,5.32
+South Africa,Africa,Other losses,Surface,Thermal,Capture and route to abatement system,24.58,5.35
+Other EU17 countries,Europe,Drainage systems,Underground,Thermal,CMM utilisation,0.8,5.36
+Mexico,North America,Drainage systems,Underground,Met,Flare,0.64,5.38
+Mongolia,Asia Pacific,Other losses,Surface,Met,Enhance combustion efficiency,0.08,5.38
+United Kingdom,Europe,Other losses,Underground,Met,Capture and route to abatement system,0.44,5.39
+South Africa,Africa,Other losses,Surface,Met,Enhance combustion efficiency,0.08,5.39
+Poland,Europe,Ventilation systems,Underground,Thermal,VAM oxidation,27.78,5.44
+Korea,Asia Pacific,Other losses,Underground,Thermal,Enhance combustion efficiency,0.08,5.45
+Indonesia,Asia Pacific,Ventilation systems,Underground,Thermal,VAM oxidation,3.14,5.46
+Australia,Asia Pacific,Other losses,Underground,Thermal,Enhance combustion efficiency,3.35,5.46
+Vietnam,Asia Pacific,Drainage systems,Underground,Thermal,Flare,1.24,5.46
+Poland,Europe,Ventilation systems,Underground,Thermal,VAM oxidation,3.21,5.51
+United States,North America,Ventilation systems,Underground,Met,VAM oxidation,3.27,5.52
+Australia,Asia Pacific,Other losses,Surface,Met,Enhance combustion efficiency,2.09,5.5600000000000005
+Mozambique,Africa,Drainage systems,Surface,Met,Flare,0.69,5.5600000000000005
+United States,North America,Ventilation systems,Underground,Met,VAM oxidation,94.61,5.6
+China,Asia Pacific,Ventilation systems,Underground,Met,VAM oxidation,137.42,5.64
+Australia,Asia Pacific,Other losses,Surface,Thermal,Enhance combustion efficiency,0.54,5.8
+South Africa,Africa,Drainage systems,Surface,Thermal,Flare,1.27,5.8
+United States,North America,Other losses,Surface,Thermal,Enhance combustion efficiency,0.56,5.8100000000000005
+Mongolia,Asia Pacific,Other losses,Surface,Thermal,Enhance combustion efficiency,0.14,5.9399999999999995
+Australia,Asia Pacific,Other losses,Surface,Met,Enhance combustion efficiency,0.37,5.95
+Russia,Russia & Caspian,Other losses,Surface,Met,Enhance combustion efficiency,0.22,5.98
+Other,Asia Pacific,Other losses,Surface,Thermal,Enhance combustion efficiency,0.15,5.98
+Australia,Asia Pacific,Drainage systems,Underground,Thermal,Flare,1.15,6.13
+China,Asia Pacific,Other losses,Surface,Met,Enhance combustion efficiency,0.13,6.13
+Mozambique,Africa,Drainage systems,Surface,Thermal,Flare,0.63,6.13
+Mongolia,Asia Pacific,Drainage systems,Surface,Met,CMM utilisation,3.16,6.15
+Other,Asia Pacific,Other losses,Underground,Thermal,Enhance combustion efficiency,0.44,6.15
+Mongolia,Asia Pacific,Drainage systems,Surface,Met,Flare,1.09,6.18
+Korea,Asia Pacific,Ventilation systems,Underground,Thermal,VAM oxidation,5.97,6.18
+Other countries in Europe,Europe,Other losses,Underground,Met,Capture and route to abatement system,0.42,6.2
+Poland,Europe,Drainage systems,Underground,Met,Flare,2.04,6.26
+Canada,North America,Other losses,Surface,Met,Enhance combustion efficiency,0.19,6.27
+Vietnam,Asia Pacific,Ventilation systems,Underground,Thermal,VAM oxidation,5.27,6.27
+United States,North America,Drainage systems,Underground,Thermal,Flare,4.59,6.29
+South Africa,Africa,Ventilation systems,Underground,Thermal,VAM oxidation,257.32,6.3
+Australia,Asia Pacific,Ventilation systems,Underground,Met,VAM oxidation,196.93,6.33
+China,Asia Pacific,Other losses,Surface,Met,Capture and route to abatement system,2.13,6.33
+Russia,Russia & Caspian,Drainage systems,Underground,Met,Flare,1.1,6.34
+South Africa,Africa,Drainage systems,Underground,Thermal,Flare,5.22,6.35
+China,Asia Pacific,Other losses,Surface,Thermal,Capture and route to abatement system,17.98,6.37
+Kazakhstan,Russia & Caspian,Other losses,Surface,Thermal,Enhance combustion efficiency,0.13,6.39
+Kazakhstan,Russia & Caspian,Drainage systems,Surface,Thermal,Flare,1.08,6.39
+India,Asia Pacific,Other losses,Surface,Thermal,Enhance combustion efficiency,8.52,6.39
+China,Asia Pacific,Other losses,Underground,Thermal,Enhance combustion efficiency,18.97,6.42
+South Africa,Africa,Other losses,Underground,Met,Enhance combustion efficiency,0.14,6.46
+Ukraine,Europe,Drainage systems,Underground,Thermal,Flare,2.15,6.48
+Vietnam,Asia Pacific,Other losses,Underground,Thermal,Enhance combustion efficiency,0.06,6.5600000000000005
+China,Asia Pacific,Drainage systems,Surface,Thermal,Flare,5.62,6.62
+China,Asia Pacific,Other losses,Surface,Thermal,Enhance combustion efficiency,1.23,6.63
+Ukraine,Europe,Other losses,Underground,Thermal,Enhance combustion efficiency,0.26,6.64
+India,Asia Pacific,Other losses,Underground,Met,Capture and route to abatement system,1.28,6.65
+India,Asia Pacific,Ventilation systems,Underground,Thermal,VAM oxidation,44.61,6.65
+India,Asia Pacific,Drainage systems,Surface,Thermal,Flare,7.05,6.67
+China,Asia Pacific,Drainage systems,Underground,Met,Flare,20.65,6.71
+Australia,Asia Pacific,Other losses,Underground,Met,Enhance combustion efficiency,0.07,6.72
+Other countries in Europe,Europe,Other losses,Underground,Thermal,Enhance combustion efficiency,0.19,6.78
+Indonesia,Asia Pacific,Drainage systems,Surface,Met,CMM utilisation,12.87,6.84
+South Africa,Africa,Other losses,Surface,Thermal,Enhance combustion efficiency,0.45,6.87
+India,Asia Pacific,Other losses,Underground,Thermal,Enhance combustion efficiency,1.17,6.89
+Russia,Russia & Caspian,Drainage systems,Surface,Thermal,Flare,5.03,6.91
+China,Asia Pacific,Ventilation systems,Underground,Thermal,VAM oxidation,823.59,6.9399999999999995
+Ukraine,Europe,Ventilation systems,Underground,Thermal,VAM oxidation,10.72,6.97
+Indonesia,Asia Pacific,Other losses,Surface,Thermal,Enhance combustion efficiency,1.75,7.02
+Mozambique,Africa,Other losses,Surface,Thermal,Enhance combustion efficiency,0.33,7.02
+Other,Asia Pacific,Ventilation systems,Underground,Thermal,VAM oxidation,16.17,7.03
+India,Asia Pacific,Other losses,Underground,Met,Enhance combustion efficiency,0.17,7.04
+Other countries in Europe,Europe,Ventilation systems,Underground,Thermal,VAM oxidation,5.17,7.2
+United States,North America,Drainage systems,Underground,Met,Flare,2.22,7.23
+India,Asia Pacific,Other losses,Surface,Thermal,Enhance combustion efficiency,1.6800000000000002,7.23
+United States,North America,Ventilation systems,Underground,Thermal,VAM oxidation,44.88,7.25
+Poland,Europe,Drainage systems,Underground,Thermal,Flare,1.32,7.26
+Kazakhstan,Russia & Caspian,Drainage systems,Underground,Thermal,CMM utilisation,22.09,7.26
+Kazakhstan,Russia & Caspian,Other losses,Underground,Thermal,Capture and route to abatement system,3.43,7.26
+Poland,Europe,Other losses,Surface,Thermal,Enhance combustion efficiency,0.17,7.28
+Other countries in Europe,Europe,Other losses,Surface,Thermal,Enhance combustion efficiency,0.06,7.28
+South Africa,Africa,Drainage systems,Underground,Met,CMM utilisation,2.66,7.29
+China,Asia Pacific,Drainage systems,Underground,Thermal,Flare,44.4,7.31
+South Africa,Africa,Ventilation systems,Underground,Met,VAM oxidation,4.9,7.33
+India,Asia Pacific,Ventilation systems,Underground,Met,VAM oxidation,4.49,7.34
+United States,North America,Other losses,Underground,Thermal,Enhance combustion efficiency,1.33,7.35
+South Africa,Africa,Other losses,Underground,Thermal,Capture and route to abatement system,20.68,7.39
+Australia,Asia Pacific,Drainage systems,Underground,Met,Flare,0.95,7.43
+Australia,Asia Pacific,Other losses,Underground,Thermal,Enhance combustion efficiency,0.3,7.46
+Vietnam,Asia Pacific,Drainage systems,Surface,Thermal,Flare,0.9,7.47
+China,Asia Pacific,Other losses,Surface,Met,Enhance combustion efficiency,0.11,7.52
+Mongolia,Asia Pacific,Other losses,Surface,Thermal,Capture and route to abatement system,2.63,7.54
+Russia,Russia & Caspian,Ventilation systems,Underground,Met,VAM oxidation,4.32,7.58
+South Africa,Africa,Other losses,Underground,Thermal,Enhance combustion efficiency,0.23,7.6
+Russia,Russia & Caspian,Ventilation systems,Underground,Thermal,VAM oxidation,146.75,7.63
+Indonesia,Asia Pacific,Drainage systems,Surface,Thermal,CMM utilisation,380.88,7.64
+Australia,Asia Pacific,Ventilation systems,Underground,Thermal,VAM oxidation,12.28,7.67
+Colombia,Central and South America,Drainage systems,Underground,Met,Flare,0.48,7.6899999999999995
+China,Asia Pacific,Other losses,Underground,Met,Enhance combustion efficiency,0.37,7.71
+South Africa,Africa,Other losses,Surface,Thermal,Enhance combustion efficiency,1.72,7.74
+Kazakhstan,Russia & Caspian,Ventilation systems,Underground,Thermal,VAM oxidation,49.71,7.77
+United States,North America,Ventilation systems,Underground,Thermal,VAM oxidation,252.42,7.8100000000000005
+Russia,Russia & Caspian,Drainage systems,Underground,Thermal,Flare,3.56,7.8100000000000005
+Indonesia,Asia Pacific,Drainage systems,Surface,Thermal,Flare,6.29,7.84
+Australia,Asia Pacific,Ventilation systems,Underground,Met,VAM oxidation,2.36,7.97
+China,Asia Pacific,Drainage systems,Underground,Thermal,Flare,105.56,7.98
+Other EU17 countries,Europe,Other losses,Underground,Thermal,Enhance combustion efficiency,0.05,7.98
+United States,North America,Other losses,Surface,Met,Enhance combustion efficiency,0.05,8.03
+Russia,Russia & Caspian,Other losses,Surface,Thermal,Enhance combustion efficiency,0.27,8.05
+Russia,Russia & Caspian,Drainage systems,Underground,Met,CMM utilisation,244.59,8.07
+China,Asia Pacific,Other losses,Underground,Met,Capture and route to abatement system,37.92,8.12
+Russia,Russia & Caspian,Drainage systems,Underground,Thermal,CMM utilisation,279.01,8.14
+Vietnam,Asia Pacific,Drainage systems,Surface,Thermal,CMM utilisation,10.83,8.16
+Indonesia,Asia Pacific,Drainage systems,Surface,Met,Flare,1.29,8.21
+United States,North America,Other losses,Underground,Met,Capture and route to abatement system,4.8,8.24
+Mozambique,Africa,Drainage systems,Surface,Thermal,CMM utilisation,0.58,8.28
+United States,North America,Drainage systems,Underground,Met,CMM utilisation,7.88,8.41
+Other,Asia Pacific,Drainage systems,Underground,Thermal,Flare,0.45,8.47
+Australia,Asia Pacific,Drainage systems,Surface,Met,Flare,1.25,8.47
+Russia,Russia & Caspian,Drainage systems,Surface,Met,Flare,1.22,8.53
+Other,Asia Pacific,Other losses,Underground,Met,Enhance combustion efficiency,0.2,8.59
+South Africa,Africa,Ventilation systems,Underground,Thermal,VAM oxidation,8.33,8.62
+Mongolia,Asia Pacific,Drainage systems,Surface,Met,Flare,0.39,8.64
+Australia,Asia Pacific,Drainage systems,Underground,Met,CMM utilisation,1.05,8.68
+India,Asia Pacific,Drainage systems,Underground,Met,Flare,0.39,8.72
+Other countries in Southeast Asia,Asia Pacific,Drainage systems,Surface,Thermal,CMM utilisation,3.1,8.76
+Australia,Asia Pacific,Other losses,Surface,Met,Capture and route to abatement system,0.76,8.77
+Mozambique,Africa,Other losses,Surface,Thermal,Capture and route to abatement system,0.36,8.79
+Kazakhstan,Russia & Caspian,Drainage systems,Underground,Thermal,Flare,0.78,8.87
+United Kingdom,Europe,Other losses,Surface,Thermal,Enhance combustion efficiency,0.05,8.88
+Vietnam,Asia Pacific,Other losses,Surface,Thermal,Capture and route to abatement system,1.27,8.88
+China,Asia Pacific,Other losses,Surface,Thermal,Capture and route to abatement system,16.66,8.89
+India,Asia Pacific,Drainage systems,Underground,Thermal,Flare,1.13,8.94
+India,Asia Pacific,Drainage systems,Underground,Thermal,CMM utilisation,7.12,8.95
+Russia,Russia & Caspian,Ventilation systems,Underground,Thermal,On-site recovery and use,481.03,8.95
+Russia,Russia & Caspian,Ventilation systems,Underground,Met,On-site recovery and use,543.73,8.95
+Russia,Russia & Caspian,Other losses,Underground,Met,Enhance combustion efficiency,0.05,8.97
+Poland,Europe,Other losses,Underground,Thermal,Enhance combustion efficiency,0.04,9.12
+Australia,Asia Pacific,Drainage systems,Surface,Thermal,Flare,0.77,9.15
+Germany,Europe,Other losses,Surface,Thermal,Enhance combustion efficiency,0.09,9.26
+Vietnam,Asia Pacific,Other losses,Underground,Thermal,Capture and route to abatement system,0.92,9.28
+China,Asia Pacific,Drainage systems,Surface,Thermal,CMM utilisation,1.41,9.36
+Australia,Asia Pacific,Ventilation systems,Underground,Thermal,VAM oxidation,115.86,9.61
+India,Asia Pacific,Ventilation systems,Underground,Thermal,VAM oxidation,75.61,9.62
+Kazakhstan,Russia & Caspian,Ventilation systems,Underground,Met,On-site recovery and use,44.15,9.7
+Other EU17 countries,Europe,Ventilation systems,Underground,Thermal,VAM oxidation,1.81,9.79
+Australia,Asia Pacific,Other losses,Underground,Met,Capture and route to abatement system,2.08,9.89
+Canada,North America,Other losses,Surface,Thermal,Enhance combustion efficiency,0.04,9.97
+Mexico,North America,Drainage systems,Underground,Thermal,Flare,0.34,10.02
+Japan,Asia Pacific,Other losses,Underground,Thermal,Enhance combustion efficiency,0.04,10.03
+Australia,Asia Pacific,Other losses,Surface,Thermal,Capture and route to abatement system,19.19,10.12
+Other EU17 countries,Europe,Drainage systems,Underground,Met,Flare,0.31,10.18
+Korea,Asia Pacific,Drainage systems,Underground,Thermal,CMM utilisation,0.67,10.27
+Korea,Asia Pacific,Other losses,Underground,Thermal,Enhance combustion efficiency,0.04,10.31
+Australia,Asia Pacific,Drainage systems,Underground,Thermal,CMM utilisation,8.05,10.38
+Mongolia,Asia Pacific,Drainage systems,Surface,Thermal,CMM utilisation,5.76,10.48
+Canada,North America,Other losses,Surface,Met,Capture and route to abatement system,0.57,10.57
+Indonesia,Asia Pacific,Other losses,Underground,Thermal,Capture and route to abatement system,0.27,10.65
+China,Asia Pacific,Drainage systems,Surface,Thermal,Flare,11.28,10.8
+Poland,Europe,Other losses,Surface,Thermal,Capture and route to abatement system,2.89,10.91
+United States,North America,Other losses,Underground,Met,Capture and route to abatement system,2.03,10.99
+Russia,Russia & Caspian,Other losses,Underground,Thermal,Capture and route to abatement system,1.58,11.19
+Poland,Europe,Drainage systems,Underground,Thermal,CMM utilisation,1.5899999999999999,11.31
+India,Asia Pacific,Drainage systems,Surface,Met,CMM utilisation,0.55,11.4
+Poland,Europe,Drainage systems,Surface,Thermal,CMM utilisation,4.74,11.65
+South Africa,Africa,Drainage systems,Underground,Thermal,CMM utilisation,5.43,11.65
+China,Asia Pacific,Other losses,Underground,Thermal,Capture and route to abatement system,107.53,11.66
+South Africa,Africa,Drainage systems,Surface,Thermal,CMM utilisation,48.93,11.75
+Other,Asia Pacific,Drainage systems,Underground,Met,Flare,0.32,11.76
+Russia,Russia & Caspian,Other losses,Surface,Thermal,Capture and route to abatement system,11.79,11.78
+China,Asia Pacific,Ventilation systems,Underground,Met,VAM oxidation,8.54,11.84
+Australia,Asia Pacific,Other losses,Underground,Thermal,Enhance combustion efficiency,0.11,11.88
+China,Asia Pacific,Other losses,Underground,Met,Enhance combustion efficiency,0.1,11.94
+United Kingdom,Europe,Other losses,Underground,Met,Enhance combustion efficiency,0.14,12.01
+Colombia,Central and South America,Drainage systems,Underground,Thermal,CMM utilisation,0.28,12.11
+South Africa,Africa,Drainage systems,Surface,Met,CMM utilisation,1.5699999999999998,12.12
+Korea,Asia Pacific,Ventilation systems,Underground,Thermal,VAM oxidation,1.5,12.27
+South Africa,Africa,Other losses,Surface,Thermal,Capture and route to abatement system,5.21,12.29
+Ukraine,Europe,Drainage systems,Underground,Thermal,CMM utilisation,2.1,12.7
+United States,North America,Other losses,Underground,Met,Enhance combustion efficiency,0.06,12.72
+Australia,Asia Pacific,Other losses,Surface,Thermal,Enhance combustion efficiency,1.75,12.75
+Australia,Asia Pacific,Other losses,Surface,Thermal,Capture and route to abatement system,13.32,12.8
+Russia,Russia & Caspian,Other losses,Surface,Met,Capture and route to abatement system,0.56,12.87
+Australia,Asia Pacific,Ventilation systems,Underground,Thermal,VAM oxidation,5.83,12.93
+Japan,Asia Pacific,Ventilation systems,Underground,Thermal,VAM oxidation,1.55,13.02
+United States,North America,Drainage systems,Underground,Thermal,CMM utilisation,60.34,13.13
+Canada,North America,Drainage systems,Surface,Met,CMM utilisation,6.41,13.16
+Australia,Asia Pacific,Drainage systems,Surface,Met,CMM utilisation,48,13.16
+China,Asia Pacific,Other losses,Surface,Met,Enhance combustion efficiency,0.18,13.29
+Australia,Asia Pacific,Drainage systems,Underground,Met,Flare,6.84,13.38
+Australia,Asia Pacific,Other losses,Surface,Met,Enhance combustion efficiency,0.07,13.48
+China,Asia Pacific,Other losses,Underground,Thermal,Enhance combustion efficiency,0.63,13.7
+China,Asia Pacific,Ventilation systems,Underground,Thermal,VAM oxidation,38.1,13.71
+Australia,Asia Pacific,Other losses,Underground,Thermal,Capture and route to abatement system,3.1,13.87
+Other,Asia Pacific,Ventilation systems,Underground,Thermal,VAM oxidation,20.49,14.11
+India,Asia Pacific,Drainage systems,Surface,Thermal,CMM utilisation,14.06,14.19
+Brazil,Central and South America,Other losses,Surface,Thermal,Capture and route to abatement system,0.92,14.27
+Kazakhstan,Russia & Caspian,Drainage systems,Underground,Thermal,Flare,1.43,14.41
+Poland,Europe,Other losses,Underground,Thermal,Enhance combustion efficiency,0.06,14.45
+Indonesia,Asia Pacific,Drainage systems,Underground,Thermal,Flare,0.49,14.46
+South Africa,Africa,Other losses,Underground,Met,Enhance combustion efficiency,0.03,14.54
+Kazakhstan,Russia & Caspian,Drainage systems,Surface,Thermal,CMM utilisation,61.33,14.66
+United States,North America,Other losses,Underground,Thermal,Capture and route to abatement system,14.36,14.76
+Vietnam,Asia Pacific,Other losses,Surface,Thermal,Enhance combustion efficiency,0.11,14.78
+Poland,Europe,Ventilation systems,Underground,Thermal,VAM oxidation,3.58,14.84
+Mozambique,Africa,Other losses,Surface,Thermal,Enhance combustion efficiency,0.03,15.02
+United Kingdom,Europe,Drainage systems,Underground,Met,Flare,0.23,15.17
+Other countries in Europe,Europe,Drainage systems,Underground,Met,Flare,0.22,15.81
+United States,North America,Ventilation systems,Underground,Met,VAM oxidation,2.2800000000000002,15.82
+India,Asia Pacific,Other losses,Underground,Thermal,Capture and route to abatement system,6.17,15.88
+Other,Asia Pacific,Other losses,Underground,Thermal,Capture and route to abatement system,2.89,15.93
+Korea,Asia Pacific,Other losses,Underground,Thermal,Capture and route to abatement system,0.64,15.94
+Other,Asia Pacific,Drainage systems,Underground,Thermal,CMM utilisation,2.44,15.95
+Poland,Europe,Other losses,Underground,Thermal,Capture and route to abatement system,0.93,16.09
+Kazakhstan,Russia & Caspian,Other losses,Surface,Thermal,Capture and route to abatement system,0.69,16.15
+Canada,North America,Other losses,Surface,Met,Capture and route to abatement system,3.33,16.15
+Other,Asia Pacific,Drainage systems,Surface,Thermal,CMM utilisation,4.66,16.17
+Canada,North America,Other losses,Surface,Met,Enhance combustion efficiency,0.05,16.29
+Brazil,Central and South America,Drainage systems,Surface,Thermal,CMM utilisation,0.73,16.39
+Other countries in Europe,Europe,Drainage systems,Underground,Thermal,CMM utilisation,3.59,16.42
+China,Asia Pacific,Other losses,Surface,Thermal,Enhance combustion efficiency,1.52,16.45
+South Africa,Africa,Ventilation systems,Underground,Met,VAM oxidation,1.09,16.5
+Other EU7 countries,Europe,Drainage systems,Surface,Thermal,CMM utilisation,0.43,16.53
+United Kingdom,Europe,Ventilation systems,Underground,Met,VAM oxidation,5.16,16.61
+Indonesia,Asia Pacific,Other losses,Surface,Thermal,Capture and route to abatement system,14.05,16.86
+Australia,Asia Pacific,Other losses,Underground,Met,Capture and route to abatement system,5.2,16.88
+Australia,Asia Pacific,Drainage systems,Underground,Met,Flare,1.23,17.13
+United States,North America,Other losses,Surface,Met,Capture and route to abatement system,0.59,17.19
+Russia,Russia & Caspian,Drainage systems,Surface,Met,Flare,3.74,17.7
+Russia,Russia & Caspian,Other losses,Surface,Thermal,Enhance combustion efficiency,0.88,17.87
+Russia,Russia & Caspian,Other losses,Surface,Met,Enhance combustion efficiency,0.05,18.09
+India,Asia Pacific,Other losses,Surface,Thermal,Capture and route to abatement system,26.7,18.11
+Australia,Asia Pacific,Drainage systems,Surface,Thermal,CMM utilisation,53.28,18.23
+South Africa,Africa,Other losses,Underground,Thermal,Capture and route to abatement system,2.3,18.28
+Ukraine,Europe,Other losses,Underground,Thermal,Capture and route to abatement system,4.63,18.31
+China,Asia Pacific,Drainage systems,Underground,Met,Flare,30.42,18.68
+Germany,Europe,Drainage systems,Surface,Thermal,CMM utilisation,2.63,18.78
+Russia,Russia & Caspian,Drainage systems,Underground,Thermal,Flare,0.91,19.1
+United States,North America,Drainage systems,Underground,Met,Flare,1.34,19.11
+Australia,Asia Pacific,Other losses,Underground,Thermal,Capture and route to abatement system,8.33,19.13
+Russia,Russia & Caspian,Drainage systems,Surface,Met,CMM utilisation,59.66,19.4
+Poland,Europe,Other losses,Surface,Thermal,Enhance combustion efficiency,0.08,19.51
+Russia,Russia & Caspian,Other losses,Underground,Met,Capture and route to abatement system,0.56,19.61
+South Africa,Africa,Other losses,Surface,Thermal,Enhance combustion efficiency,0.4,19.77
+South Africa,Africa,Other losses,Underground,Thermal,Enhance combustion efficiency,0.11,20.43
+South Africa,Africa,Other losses,Underground,Met,Capture and route to abatement system,0.51,20.76
+Vietnam,Asia Pacific,Drainage systems,Underground,Thermal,Flare,0.48,21.13
+Brazil,Central and South America,Other losses,Surface,Thermal,Enhance combustion efficiency,0.08,21.17
+Mongolia,Asia Pacific,Drainage systems,Surface,Met,Flare,0.32,21.36
+Australia,Asia Pacific,Drainage systems,Surface,Met,Flare,1.6099999999999999,21.88
+Other,Asia Pacific,Other losses,Underground,Met,Capture and route to abatement system,0.62,21.93
+Australia,Asia Pacific,Other losses,Surface,Thermal,Enhance combustion efficiency,0.53,21.99
+Russia,Russia & Caspian,Drainage systems,Surface,Thermal,CMM utilisation,132.68,22.14
+China,Asia Pacific,Drainage systems,Underground,Thermal,Flare,88.57,22.23
+South Africa,Africa,Other losses,Surface,Met,Capture and route to abatement system,0.95,22.38
+Korea,Asia Pacific,Drainage systems,Underground,Thermal,Flare,0.62,22.56
+Other countries in Southeast Asia,Asia Pacific,Other losses,Underground,Thermal,Capture and route to abatement system,0.59,23.05
+Other countries in Europe,Europe,Drainage systems,Surface,Thermal,CMM utilisation,4.18,23.11
+South Africa,Africa,Ventilation systems,Underground,Thermal,VAM oxidation,3.87,23.18
+Ukraine,Europe,Other losses,Underground,Thermal,Capture and route to abatement system,1.17,23.2
+Ukraine,Europe,Drainage systems,Underground,Thermal,Flare,1.6400000000000001,23.42
+South Africa,Africa,Drainage systems,Surface,Met,Flare,0.16,23.51
+United States,North America,Drainage systems,Surface,Thermal,CMM utilisation,33.45,23.59
+Poland,Europe,Drainage systems,Underground,Thermal,Flare,0.8,24.07
+United Kingdom,Europe,Other losses,Surface,Thermal,Capture and route to abatement system,0.57,24.09
+Russia,Russia & Caspian,Drainage systems,Surface,Met,Flare,1.01,24.22
+Vietnam,Asia Pacific,Drainage systems,Underground,Met,CMM utilisation,0.25,24.52
+South Africa,Africa,Drainage systems,Underground,Thermal,Flare,5.25,24.56
+Other countries in Southeast Asia,Asia Pacific,Other losses,Surface,Thermal,Capture and route to abatement system,1.8,24.67
+Other EU7 countries,Europe,Drainage systems,Underground,Thermal,Flare,0.13,24.76
+Vietnam,Asia Pacific,Drainage systems,Surface,Thermal,Flare,1.08,24.91
+Indonesia,Asia Pacific,Other losses,Surface,Thermal,Enhance combustion efficiency,1.34,25.02
+India,Asia Pacific,Other losses,Underground,Thermal,Enhance combustion efficiency,2.02,25.19
+Ukraine,Europe,Ventilation systems,Underground,Thermal,VAM oxidation,2.96,25.25
+India,Asia Pacific,Other losses,Underground,Met,Capture and route to abatement system,1.6800000000000002,25.31
+Other countries in Southeast Asia,Asia Pacific,Drainage systems,Underground,Thermal,Flare,0.43,25.6
+Colombia,Central and South America,Other losses,Underground,Thermal,Enhance combustion efficiency,0.02,25.7
+Canada,North America,Other losses,Surface,Thermal,Capture and route to abatement system,1.04,25.73
+Vietnam,Asia Pacific,Other losses,Underground,Met,Enhance combustion efficiency,0.02,25.81
+Japan,Asia Pacific,Other losses,Underground,Thermal,Capture and route to abatement system,0.13,25.99
+Australia,Asia Pacific,Drainage systems,Underground,Thermal,Flare,1.6099999999999999,26.18
+Mongolia,Asia Pacific,Other losses,Surface,Thermal,Enhance combustion efficiency,0.09,26.74
+India,Asia Pacific,Ventilation systems,Underground,Thermal,VAM oxidation,81.26,26.77
+Russia,Russia & Caspian,Other losses,Underground,Met,Enhance combustion efficiency,0.02,27.64
+United States,North America,Drainage systems,Surface,Met,CMM utilisation,1.16,27.71
+Other,Asia Pacific,Other losses,Underground,Thermal,Capture and route to abatement system,3.14,28.09
+Russia,Russia & Caspian,Ventilation systems,Underground,Met,VAM oxidation,2.29,28.3
+Other EU17 countries,Europe,Drainage systems,Surface,Thermal,CMM utilisation,1.8900000000000001,28.34
+United States,North America,Other losses,Surface,Met,Capture and route to abatement system,0.12,29.2
+New Zealand,Asia Pacific,Drainage systems,Surface,Met,CMM utilisation,0.44,29.29
+Other EU17 countries,Europe,Drainage systems,Underground,Thermal,Flare,0.55,29.31
+India,Asia Pacific,Other losses,Surface,Thermal,Enhance combustion efficiency,1.96,29.39
+Vietnam,Asia Pacific,Ventilation systems,Underground,Met,VAM oxidation,0.56,29.47
+Canada,North America,Drainage systems,Surface,Met,Flare,0.64,29.76
+Ukraine,Europe,Drainage systems,Underground,Thermal,Flare,2.69,29.77
+India,Asia Pacific,Drainage systems,Underground,Met,Flare,1.54,30.55
+Other countries in Southeast Asia,Asia Pacific,Other losses,Surface,Thermal,Enhance combustion efficiency,0.16,31.03
+Germany,Europe,Other losses,Surface,Thermal,Enhance combustion efficiency,0.1,31.4
+South Africa,Africa,Drainage systems,Underground,Thermal,Flare,1.51,31.71
+Canada,North America,Drainage systems,Surface,Thermal,CMM utilisation,1.65,31.77
+Colombia,Central and South America,Ventilation systems,Underground,Thermal,VAM oxidation,0.63,32.23
+Other,Asia Pacific,Drainage systems,Underground,Thermal,Flare,3.19,32.32
+Other,Asia Pacific,Other losses,Surface,Thermal,Capture and route to abatement system,1.7,32.36
+Other,Asia Pacific,Other losses,Surface,Thermal,Capture and route to abatement system,2.26,32.44
+Poland,Europe,Drainage systems,Surface,Thermal,Flare,0.49,32.8
+Mongolia,Asia Pacific,Other losses,Surface,Thermal,Capture and route to abatement system,0.98,32.93
+Australia,Asia Pacific,Drainage systems,Surface,Thermal,Flare,4.75,33.35
+Other EU17 countries,Europe,Other losses,Surface,Thermal,Enhance combustion efficiency,0.12,33.44
+United States,North America,Other losses,Underground,Thermal,Capture and route to abatement system,16.33,33.59
+Other EU17 countries,Europe,Other losses,Surface,Thermal,Capture and route to abatement system,1.4,34.02
+United States,North America,Other losses,Underground,Thermal,Enhance combustion efficiency,1.3,34.78
+United States,North America,Ventilation systems,Underground,Thermal,VAM oxidation,62.59,34.95
+India,Asia Pacific,Ventilation systems,Underground,Met,VAM oxidation,4.23,35.08
+Russia,Russia & Caspian,Drainage systems,Underground,Met,Flare,0.29,35.57
+Australia,Asia Pacific,Drainage systems,Surface,Met,Flare,1.94,36.23
+China,Asia Pacific,Drainage systems,Surface,Thermal,Flare,8.89,37.3
+Russia,Russia & Caspian,Drainage systems,Surface,Thermal,Flare,4.74,37.46
+China,Asia Pacific,Drainage systems,Surface,Met,Flare,0.81,37.55
+Indonesia,Asia Pacific,Drainage systems,Surface,Thermal,Flare,11.94,37.77
+India,Asia Pacific,Other losses,Underground,Thermal,Capture and route to abatement system,13.86,37.91
+Australia,Asia Pacific,Drainage systems,Underground,Thermal,Flare,3.19,38.61
+Ukraine,Europe,Other losses,Underground,Thermal,Enhance combustion efficiency,0.03,38.72
+United States,North America,Other losses,Surface,Met,Enhance combustion efficiency,0.01,39.29
+United States,North America,Drainage systems,Underground,Thermal,Flare,12.32,39.33
+Other countries in Europe,Europe,Other losses,Surface,Thermal,Capture and route to abatement system,3.07,41.34
+South Africa,Africa,Drainage systems,Underground,Met,Flare,0.27,41.51
+Germany,Europe,Other losses,Surface,Thermal,Capture and route to abatement system,2.2,42.02
+Australia,Asia Pacific,Other losses,Underground,Met,Enhance combustion efficiency,0.01,42.62
+South Africa,Africa,Drainage systems,Surface,Thermal,Flare,2.39,43.09
+Russia,Russia & Caspian,Drainage systems,Surface,Thermal,Flare,3.49,43.84
+India,Asia Pacific,Drainage systems,Underground,Thermal,Flare,12.08,43.96
+India,Asia Pacific,Other losses,Underground,Met,Enhance combustion efficiency,0.07,44.31
+Other,Asia Pacific,Other losses,Underground,Thermal,Enhance combustion efficiency,0.15,44.82
+Other,Asia Pacific,Ventilation systems,Underground,Thermal,VAM oxidation,8.09,45.07
+India,Asia Pacific,Drainage systems,Underground,Thermal,Flare,2.09,45.12
+New Zealand,Asia Pacific,Other losses,Surface,Met,Capture and route to abatement system,0.33,45.4
+United States,North America,Drainage systems,Underground,Thermal,Flare,3.7,46.83
+Mongolia,Asia Pacific,Other losses,Surface,Thermal,Enhance combustion efficiency,0.08,48.05
+Kazakhstan,Russia & Caspian,Drainage systems,Surface,Thermal,Flare,0.28,49.55
+Other EU7 countries,Europe,Other losses,Underground,Thermal,Enhance combustion efficiency,0.01,49.64
+Australia,Asia Pacific,Ventilation systems,Underground,Met,VAM oxidation,0.37,50.54
+Other countries in Southeast Asia,Asia Pacific,Drainage systems,Surface,Thermal,Flare,0.36,50.57
+Japan,Asia Pacific,Drainage systems,Underground,Thermal,Flare,0.07,50.65
+India,Asia Pacific,Drainage systems,Surface,Thermal,Flare,12.67,50.69
+United Kingdom,Europe,Other losses,Surface,Thermal,Capture and route to abatement system,0.07,50.95
+United States,North America,Other losses,Surface,Thermal,Capture and route to abatement system,22.26,51.5
+United States,North America,Other losses,Surface,Thermal,Enhance combustion efficiency,0.81,53.01
+Other EU17 countries,Europe,Drainage systems,Surface,Thermal,Flare,0.6,53.53
+Canada,North America,Other losses,Surface,Met,Enhance combustion efficiency,0.1,53.62
+Other EU17 countries,Europe,Other losses,Underground,Thermal,Enhance combustion efficiency,0.03,55.12
+United States,North America,Drainage systems,Surface,Met,Flare,0.12,55.22
+Other,Asia Pacific,Other losses,Surface,Thermal,Enhance combustion efficiency,0.11,55.48
+Canada,North America,Other losses,Surface,Thermal,Enhance combustion efficiency,0.05,56.34
+Other countries in Europe,Europe,Ventilation systems,Underground,Thermal,VAM oxidation,8.34,57.83
+Other countries in Europe,Europe,Other losses,Underground,Thermal,Enhance combustion efficiency,0.19,58.39
+Mongolia,Asia Pacific,Drainage systems,Surface,Thermal,Flare,0.75,58.73
+New Zealand,Asia Pacific,Other losses,Surface,Met,Enhance combustion efficiency,0.03,60.45
+Mexico,North America,Drainage systems,Surface,Thermal,Flare,0.11,61.19
+Other countries in Europe,Europe,Other losses,Surface,Thermal,Enhance combustion efficiency,0.21,61.21
+India,Asia Pacific,Other losses,Surface,Met,Capture and route to abatement system,0.55,62.1
+Other countries in Europe,Europe,Drainage systems,Underground,Thermal,Flare,1.55,62.88
+Vietnam,Asia Pacific,Drainage systems,Surface,Met,Flare,0.05,63.56
+Ukraine,Europe,Ventilation systems,Underground,Thermal,VAM oxidation,6.28,63.89
+Mozambique,Africa,Drainage systems,Surface,Thermal,Flare,0.06,65.62
+India,Asia Pacific,Drainage systems,Surface,Thermal,Flare,5.25,65.95
+Other EU7 countries,Europe,Ventilation systems,Underground,Thermal,VAM oxidation,0.29,66.11
+United Kingdom,Europe,Drainage systems,Surface,Thermal,Flare,0.1,66.35
+Other EU17 countries,Europe,Ventilation systems,Underground,Thermal,VAM oxidation,1.05,67.63
+Germany,Europe,Drainage systems,Surface,Thermal,Flare,0.46,69
+United Kingdom,Europe,Other losses,Surface,Thermal,Enhance combustion efficiency,0.01,70.16
+Other,Asia Pacific,Drainage systems,Surface,Thermal,Flare,1.07,70.54
+South Africa,Africa,Drainage systems,Surface,Thermal,Flare,1.3,70.6
+Vietnam,Asia Pacific,Other losses,Underground,Met,Capture and route to abatement system,0.05,70.74
+Russia,Russia & Caspian,Other losses,Underground,Thermal,Enhance combustion efficiency,0.01,70.87
+Colombia,Central and South America,Other losses,Underground,Thermal,Capture and route to abatement system,0.05,72.25
+Other EU17 countries,Europe,Other losses,Underground,Thermal,Capture and route to abatement system,0.24,73.27
+United Kingdom,Europe,Drainage systems,Surface,Thermal,CMM utilisation,0.12,73.97
+Other countries in Europe,Europe,Drainage systems,Surface,Thermal,Flare,1.3,80.62
+Brazil,Central and South America,Drainage systems,Surface,Thermal,Flare,0.17,81.54
+India,Asia Pacific,Drainage systems,Surface,Met,Flare,0.4,83.29
+India,Asia Pacific,Other losses,Surface,Met,Enhance combustion efficiency,0.05,85.25
+Kazakhstan,Russia & Caspian,Other losses,Surface,Thermal,Enhance combustion efficiency,0.01,86.32
+Other EU7 countries,Europe,Drainage systems,Surface,Thermal,Flare,0.36,88.66
+Poland,Europe,Drainage systems,Surface,Met,Flare,0.04,90.5
+New Zealand,Asia Pacific,Drainage systems,Surface,Met,Flare,0.15,94.81
+Other,Asia Pacific,Other losses,Surface,Thermal,Enhance combustion efficiency,0.08,95.43
+Other EU7 countries,Europe,Other losses,Surface,Thermal,Enhance combustion efficiency,0.04,103.53
+Other countries in Europe,Europe,Other losses,Underground,Thermal,Capture and route to abatement system,1.15,105.05
+Vietnam,Asia Pacific,Other losses,Surface,Met,Capture and route to abatement system,0.03,107.91
+Mexico,North America,Other losses,Surface,Thermal,Capture and route to abatement system,0.07,108
+Other EU7 countries,Europe,Other losses,Surface,Thermal,Capture and route to abatement system,0.45,110.74
+Other countries in Southeast Asia,Asia Pacific,Other losses,Underground,Thermal,Enhance combustion efficiency,0.01,116.6
+Canada,North America,Drainage systems,Surface,Thermal,Flare,0.22,117.31
+Other countries in Southeast Asia,Asia Pacific,Other losses,Surface,Thermal,Capture and route to abatement system,0.12,123.43
+Other countries in Southeast Asia,Asia Pacific,Ventilation systems,Underground,Thermal,VAM oxidation,0.27,132.62
+Colombia,Central and South America,Drainage systems,Underground,Thermal,Flare,0.03,132.86
+Vietnam,Asia Pacific,Drainage systems,Underground,Met,Flare,0.02,135.37
+Mexico,North America,Other losses,Surface,Thermal,Enhance combustion efficiency,0.01,142.5
+United States,North America,Drainage systems,Surface,Thermal,Flare,6.3,143.78
+Vietnam,Asia Pacific,Other losses,Surface,Met,Enhance combustion efficiency,0,145.44
+Iran,Middle East,Drainage systems,Surface,Thermal,Flare,0.02,147.47
+Russia,Russia & Caspian,Ventilation systems,Underground,Thermal,VAM oxidation,0.22,148.11
+Other EU7 countries,Europe,Other losses,Underground,Thermal,Capture and route to abatement system,0.02,148.45
+Iran,Middle East,Drainage systems,Underground,Thermal,Flare,0.07,149.1
+Venezuela,Central and South America,Drainage systems,Surface,Thermal,Flare,0.05,163.22
+Other countries in Southeast Asia,Asia Pacific,Other losses,Surface,Thermal,Enhance combustion efficiency,0.01,169.48
+Poland,Europe,Other losses,Surface,Met,Capture and route to abatement system,0.02,171.26
+United States,North America,Other losses,Surface,Thermal,Enhance combustion efficiency,0.61,181.16
+Poland,Europe,Other losses,Surface,Met,Enhance combustion efficiency,0,217.74
+Iran,Middle East,Other losses,Surface,Thermal,Capture and route to abatement system,0.01,252.37
+Iran,Middle East,Other losses,Underground,Thermal,Enhance combustion efficiency,0,285.32
+Venezuela,Central and South America,Other losses,Surface,Thermal,Capture and route to abatement system,0.03,286.09
+Iran,Middle East,Ventilation systems,Underground,Thermal,VAM oxidation,0.15,316.51
+Other countries in Southeast Asia,Asia Pacific,Other losses,Underground,Thermal,Capture and route to abatement system,0.02,326.9
+New Zealand,Asia Pacific,Drainage systems,Surface,Thermal,Flare,0.08,329.57
+Iran,Middle East,Other losses,Surface,Thermal,Enhance combustion efficiency,0,338.63
+Venezuela,Central and South America,Other losses,Surface,Thermal,Enhance combustion efficiency,0,378.9
+United States,North America,Drainage systems,Surface,Thermal,Flare,0.67,493.21
+United States,North America,Other losses,Surface,Thermal,Capture and route to abatement system,0.66,576.87
+New Zealand,Asia Pacific,Other losses,Surface,Thermal,Capture and route to abatement system,0.05,607.44
+New Zealand,Asia Pacific,Other losses,Surface,Thermal,Enhance combustion efficiency,0,783.12
+Iran,Middle East,Other losses,Underground,Thermal,Capture and route to abatement system,0.01,808.53
