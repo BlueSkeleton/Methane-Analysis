@@ -3,11 +3,46 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import streamlit as st
 import warnings
+from bs4 import BeautifulSoup
+import requests
 
 st.set_page_config(
     page_icon=":smiley:",
     layout="wide",
 )
+
+
+def cleaner(a):
+    return a.get_text()
+
+def converter(b):
+    b = b.replace(",", "").strip()
+    if b == '':
+        return None
+    if 'bn t' in b:
+        return float(b.replace('bn t','')) * 1000000000
+    elif 'm t' in b:
+        return float(b.replace('m t', '')) * 1000000
+    elif 't' in b:
+        return float(b.replace('t', ''))
+    else:
+        return None
+
+url = "https://www.worlddata.info/greenhouse-gas-by-country.php"
+meat = requests.get(url)
+soup = BeautifulSoup(meat.content, "lxml")
+table = soup.find_all("td")
+cleantable = list(map(cleaner,table))
+#print(cleantable) #10
+rowlen = len(cleantable) / 10
+#print("we're gonna have "+str(rowlen)+" rows")
+primet = pd.DataFrame(np.array(cleantable).reshape(rowlen,10))     #we wanna keep 0 5 and 6, met co2 equivalent total and per capita
+primet = primet.drop([1,2,3,4,7,8,9],axis = 1)
+emissions = primet.drop(0,axis=0)
+emissions = emissions.rename(columns={0: "Country",5: "Methane CO2 Equivalent(Tons)",6:"CO2 Equivalent per capita(tons)"})
+
+emissions["Methane CO2 Equivalent(Tons)"] = emissions["Methane CO2 Equivalent(Tons)"].apply(converter)
+
 
 #warnings.filterwarnings("ignore")
 
@@ -38,6 +73,7 @@ sorted_data = abatement_grouped.sort_values(by='savings_to_cost_ratio', ascendin
 print(sorted_data)
 
 
+
 # Create a stacked bar chart for the top 10 countries, broken down by type
 def draw0():
     fig, ax = plt.subplots(figsize=(12, 6))
@@ -48,13 +84,6 @@ def draw0():
     plt.legend(title='Type', bbox_to_anchor=(1, 1))
     plt.xticks(rotation=45)
     plt.show()
-
-
-
-df_oil_gas =  pd.read_csv("iae_og.csv")
-df_coal = pd.read_csv("iae_coal.csv")
-df_abat = pd.concat([df_oil_gas, df_coal])
-#df_abat.shape
 
 def draw1():
     fig, ax = plt.subplots(figsize=(12, 6))
