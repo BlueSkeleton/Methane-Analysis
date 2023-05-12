@@ -29,9 +29,14 @@ abatement_grouped['savings_to_cost_ratio'] = abatement_grouped['savings'] / abat
 sorted_data = abatement_grouped.sort_values(by='savings_to_cost_ratio', ascending=False)
 # print(sorted_data)
 # Create a stacked bar chart for the top 10 countries, broken down by type
-def draw0():
+def draw0(selected_countries):
+    filtered_data = df_meth[df_meth['country'].isin(selected_countries)]
+    top_grouped_data = filtered_data.groupby(['country', 'type']).agg({'emissions': 'sum'}).reset_index()
+    top_grouped_data = top_grouped_data.groupby('country').apply(lambda x: x.nlargest(3, 'emissions')).reset_index(drop=True)
+    top_countries = top_grouped_data['country'].unique().tolist()
     fig, ax = plt.subplots(figsize=(12, 6))
-    top_grouped_data.pivot_table(values='emissions', index='country', columns='type', aggfunc='sum').loc[top_countries].plot(kind='bar', stacked=True, ax=ax)
+    top = top_grouped_data.pivot_table(values='emissions', index='country', columns='type', aggfunc='sum').plot(kind='bar', stacked=True, ax=ax)
+    #top_grouped_data.pivot_table(values='emissions', index='country', columns='type', aggfunc='sum').loc[top_countries].plot(kind='bar', stacked=True, ax=ax)
     plt.title('Top 10 Countries by Methane Emissions - Type-wise')
     plt.xlabel('Country')
     plt.ylabel('Emissions')
@@ -105,7 +110,8 @@ def draw_pie_chart():
 #     # plt.show()
     
 if selecto == 'draw0':
-    draw0()
+    selected_countries = st.multiselect('Select countries:', df_meth['country'].unique())
+    draw0(selected_countries)
     st.pyplot()
     
 elif selecto == 'draw1':
